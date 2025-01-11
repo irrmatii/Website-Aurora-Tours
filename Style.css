@@ -1,0 +1,131 @@
+
+
+.flex{
+    display: flex;
+}
+
+.a-items{
+    align-items: center;
+}
+
+.a-items-end{
+    align-items: flex-end;
+}
+
+.a-items-start{
+    align-items: flex-start;
+}
+
+.j-center{
+    justify-content: center;
+}
+
+.j-between{
+    justify-content: space-between;
+}
+
+.j-around{
+    justify-content: space-around;
+}
+
+.j-end{
+    justify-content: flex-end;
+}
+
+.f-grow1{
+    flex:1;
+}
+
+.f-grow2{
+    flex:2;
+}
+
+.f-grow3{
+    flex:3;
+}
+
+.f-grow4{
+    flex:4;
+}
+
+.f-grow5{
+    flex:5;
+}
+
+.f-direction{
+    flex-direction: column;
+}
+
+.gap10{
+    gap: 10px;
+}
+
+.gap20{
+    gap: 20px;
+}
+
+.gap30{
+    gap: 30px;
+}
+
+.gap40{
+    gap: 40px;
+}
+
+.gap70{
+    gap: 70px;
+}
+
+.order-1{
+    order: 1;
+}
+
+.order-2{
+    order: 2;
+}
+
+
+/*
+HEADER
+ */
+
+
+.c-item{
+    height: 480px;
+}
+
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+
+.c-img-bottom{
+    object-position: bottom;
+}
+
+.c-img-top{
+    object-position: top;
+}
+
+.overview{
+    height: 180px;
+    background-color: #d3dae1;
+}
+
+.card-img-top-height{
+    height: 17rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
